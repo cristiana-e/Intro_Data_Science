@@ -90,15 +90,8 @@ Sem variável de resposta pré-definida. Composto somente pelas caracteristicas 
 
 ___________
 
-### Links úteis:
+### :diamond_shape_with_a_dot_inside: Links úteis:
 
 http://www.datageeks.com.br/machine-learning/
 
 https://www.kaggle.com/brendan45774/titanic-top-solution
-
-
-
- 
-
-
-
