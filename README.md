@@ -1,10 +1,12 @@
-# CONCEITOS DE DATA SCIENCE
+# CONCEITOS DE DATA SCIENCE :gear:
 
-Curso de Introdução a Ciência de Dados no Bootcamp Banco Carrefour Data Engineer com a Digital Inovation One.
+Olá, aventureiros! Este repositório foi criado a partir do curso de Introdução a Ciência de Dados no Bootcamp Banco Carrefour Data Engineer com a Digital Inovation One.
 
-![mindmap-dsbd](D:\Documentos D\Estudos\Bootcamp_Carrefur\Intro_a_criencia_de_dados\Conteudos\mindmap-dsbd.png)
+Abaixo vocês podem ver minhas anotações sobre o curso.
 
-## Fundamentos para Data Science
+Façam bom proveito :happy:
+
+## Fundamentos para Data Science :diamond_shape_with_a_dot_inside:
 
 - ​		**Otimização**: Otimizar processos (focado em cálculos, álgebra linear).
 
@@ -19,7 +21,7 @@ Curso de Introdução a Ciência de Dados no Bootcamp Banco Carrefour Data Engin
 
 
 
-## MINERAÇÃO DE DADOS
+## MINERAÇÃO DE DADOS 
 
 - ​		**Análise de Rede**: Trabalha com Grafos.
 
@@ -61,9 +63,7 @@ Espera-se conseguir tirar insights das infos, entender coisas novas que aparecer
 
 ___________________
 
-## TIPOS DE APRENDIZADO DE MÁQUINA
-
-![Machine-Learning-Classico](D:\Documentos D\Estudos\Bootcamp_Carrefur\Intro_a_criencia_de_dados\Conteudos\Machine-Learning-Classico.png)
+## TIPOS DE APRENDIZADO DE MÁQUINA :heart_decoration:
 
 ### Classical Machine Learning - Supervisionado
 
