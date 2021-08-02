@@ -4,7 +4,7 @@ Olá, aventureiros! Este repositório foi criado a partir do curso de Introduç�
 
 Abaixo vocês podem ver minhas anotações sobre o curso.
 
-Façam bom proveito :happy:
+Façam bom proveito 😃
 
 ## Fundamentos para Data Science :diamond_shape_with_a_dot_inside:
 
